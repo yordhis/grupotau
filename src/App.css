@@ -6,15 +6,22 @@
 }
 .footer{
   font-size: 10px;
-  color: azure;
+  color: #b2c0ec;
 }
 
 .footer > a{
-  color: darkgoldenrod;
+  color: #e5c32c;
 }
 .icono-whatsapp{
   font-size: 55px;
   color: rgb(0, 158, 26);
+}
+
+.text-info{
+  padding: 0px;
+  margin: 0px;
+  font-size: 18px;
+  color: #b2c0ec;
 }
 
 .logo {

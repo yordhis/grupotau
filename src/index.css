@@ -16,11 +16,11 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #b2c0ec;
   text-decoration: inherit;
 }
 a:hover {
-  color: #535bf2;
+  color: #251c5e;
 }
 
 body {
@@ -29,18 +29,18 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
-  background-color: #1a1a1a;
+  background-color: #171717;
 }
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
-  color: #f9f9f9;
+  color: #b2c0ec;
 }
 h4{
   font-size: 1.2em;
   line-height: 1.1;
-  color: #f1d30a;
+  color: #e5c32c;
 }
 
 button {
@@ -55,7 +55,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color:#251c5e;
 }
 button:focus,
 button:focus-visible {
